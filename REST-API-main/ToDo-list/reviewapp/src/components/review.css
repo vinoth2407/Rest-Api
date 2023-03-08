@@ -1,0 +1,41 @@
+.form{
+    display: flex;
+    justify-content: center;
+    height: 1060px;
+    width: 800px;
+    box-shadow: 11px 12px 13px 12px rgb(200, 210, 215);
+    padding-top: 30px;
+    border-radius: 60px;
+}
+.main{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        padding: 90px 0 90px 0;
+        background-color: rgb(255, 255, 255);
+}
+input{
+    width: 400px;
+    height: 50px;
+    border-radius: 60px;
+    padding:10px;
+}
+.form{
+    height: 100%;
+    padding-bottom: 50px;
+}
+.text-border{
+    padding: 5px;
+}
+button{
+    width:400px;
+    height:50px;
+    background-color: rgb(221, 233, 235);
+    border: none;
+    border-radius: 60px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.but{
+    padding-top: 20px;
+}
